@@ -36,20 +36,6 @@
 (표, 리스트, 텍스트 어떤 형식이든 OK)
 (팩트만 적고, 결론이나 예상 결과는 적지 마세요)
 
-## Mediator 최종 결정 형식
-(Mediator가 뭘 결정해야 하는지)
-(예: "6개 가중치 합계 1.00", "3개 시나리오 중 선택", "Go/No-go 판단")
-
-## 라운드 수정 (선택 — 비워두면 기본 3라운드 사용)
-<!-- 기본 라운드: -->
-<!-- Round 1: Initial Analysis — 데이터 분석 + 초기 의견 + 가중치 제안 -->
-<!-- Round 2: Core Trade-offs — 서로 반박/동의, 핵심 갈등 논의 -->
-<!-- Round 3: Final Proposal — 최종 제안 도출 -->
-<!-- 바꾸고 싶은 라운드만 아래에 작성하세요. 예: -->
-<!-- Round 2: SLA별 전략 차이 — Standard vs Relaxed SLA 전략 논의 -->
-<!-- Round 4: 리스크 분석 — 추가 라운드 (라운드 추가도 가능) -->
-
-
 ## Pipeline
 - **Simulation**: N
 - **Charts**: N
