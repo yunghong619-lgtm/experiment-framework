@@ -1,0 +1,11 @@
+{
+  "name": "experiment-framework",
+  "version": "1.0.0",
+  "description": "Reusable multi-agent experiment framework with TUI, charts, and Confluence Wiki",
+  "main": "experiment-runner.js",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0",
+    "blessed": "^0.1.81",
+    "puppeteer": "^22.0.0"
+  }
+}
